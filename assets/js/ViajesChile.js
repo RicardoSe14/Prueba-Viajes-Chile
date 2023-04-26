@@ -4,19 +4,19 @@ var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
 })
 
 $(".card-title1").click(function(){
-    $(".descripcion1").toggle(100);
+    $("#descripcion1").toggle(100);
 });
 
 $(".card-title2").click(function(){
-    $(".descripcion2").toggle(100);
+    $("#descripcion2").toggle(100);
 });
 
 $(".card-title3").click(function(){
-    $(".descripcion3").toggle(100);
+    $("#descripcion3").toggle(100);
 });
 
 $(".card-title4").click(function(){
-    $(".descripcion4").toggle(100);
+    $("#descripcion4").toggle(100);
 });
 
 $("#enviar").click(function(){
