@@ -17,12 +17,12 @@ body{background-color: black !important;
 font-family: "roboto" !important; }
 
 .parrafo {
+  font-size: calc(0.80rem + .2vw);
   font-weight: 300 !important;
 }
 
 .descripcion{
-  font-size: 12px !important;
-}
+  font-size: calc(0.75rem + .1vw)}
 
 .icon {
   padding-left: 3px !important;
