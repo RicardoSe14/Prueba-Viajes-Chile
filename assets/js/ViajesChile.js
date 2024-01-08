@@ -18,7 +18,3 @@ $("#card-title3").click(function(){
 $("#card-title4").click(function(){
     $("#descripcion4").toggle(100);
 });
-
-$("#enviar").click(function(){
-    alert("El mensaje fue enviado correctamente");
-});
